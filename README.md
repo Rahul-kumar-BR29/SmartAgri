@@ -29,3 +29,8 @@ Drone and Satellite Integration: Automated aerial monitoring and data collection
 DeFi Agricultural Services: Blockchain-based lending, insurance, and financial services for farmers
 NFT Farm Certificates: Digital certificates and ownership tokens for agricultural properties
 Community Governance: DAO-based platform governance allowing farmer participation in decision-making
+
+
+contract adress 0x4D5234F02AbeAAc929CB3B26Eb5493413794c772
+<img width="1530" height="680" alt="image" src="https://github.com/user-attachments/assets/1acddbae-9045-4b88-aa08-7a927eb558dd" />
+
